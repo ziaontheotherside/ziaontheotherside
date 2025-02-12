@@ -6,10 +6,13 @@
 🏆 Dean’s List (Fall 2021, Spring 2022, Fall 2022, Spring 2024)
 
 ---
+
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -17,6 +20,23 @@
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
+
+---
+
+### 🚀 Featured Projects  
+Check out my some of **most school projects** in **C++, Java, and Python**:  
+🔹 [**UMBC Music Player**](https://github.com/ziaontheotherside/school-projects/tree/main/UMBCMusicPlayer) – A linked-list-based music playlist simulator in **C++**.  
+🔹 [**Hashtag Analyzer**](https://github.com/ziaontheotherside/school-projects/tree/main/HashtagAnalyzer) – A **C++** program for analyzing trending hashtags.  
+🔹 [**Process Manager**](https://github.com/ziaontheotherside/school-projects/tree/main/ProcessManager) – A **multi-threaded process scheduling simulator** using **stacks in C++**.  
+🔹 [**PyMatch**](https://github.com/ziaontheotherside/school-projects/tree/main/PyMatch) – A **Python-based memory matching game** with randomized board generation.  
+🔹 [**UMBC Racer**](https://github.com/ziaontheotherside/school-projects/tree/main/UMBCRacer) – A **C++ racing game** with AI-driven obstacles and player progression.
+
+---
+
+### 🔧 **What I’m Currently Working On**
+📌 **Learning C# and Unity** to build 3D interactive experiences.  
+📌 **Exploring game development fundamentals** while working on a **Unity personal project**.  
+📌 **Building a Unity-based gameplay prototype** to gain hands-on experience with **physics engines, animations, and UI systems**.  
 
 ---
 
@@ -33,5 +53,6 @@
 - [Email](mailto:faonimas@example.com)
 
 ---
+
 ### ⚡ Fun fact:
 Yes, the dog in my profile picture is my best friend's dog as Wednesday Addams.
