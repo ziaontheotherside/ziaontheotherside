@@ -36,9 +36,8 @@ Check out my **most recent university projects** in **C++, Java, Python, and SQL
 ---
 
 ### 🔧 **What I’m Currently Working On**
-📌 **Learning C# and Unity** to build 3D interactive experiences.  
-📌 **Exploring game development fundamentals** while working on a **Unity personal project**.
-📌 **Building a Unity-based gameplay prototype** to gain hands-on experience with **physics engines, animations, and UI systems**.  
+### **📌 Updated Learning Section**  
+📌 **Exploring C# and Unity** because I love learning new technologies and expanding my skill set. I'm currently working on a **personal game development project**, diving into **physics engines, animations, and UI systems**. My goal is to **build a gameplay prototype** and add it to my project list soon!
 
 ---
 
