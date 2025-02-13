@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Zia!
 
-👨‍💻 I'm a college senior (Spring 2025) looking for New Grad data analytics, business analytics, and software engineering roles!  
+👨‍💻 I'm a college senior (Spring 2025) looking for New Grad data analytics, data science, and software engineering roles!  
 👨‍🎓 Studying Management Information Systems at the University of Maryland, Baltimore County (UMBC)  
 🎓 Pursuing a User Experience (UX), Web and Mobile Development and Management certificate  
 🏆 Dean’s List (Fall 2021, Spring 2022, Fall 2022, Spring 2024)
