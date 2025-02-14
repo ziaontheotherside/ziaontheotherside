@@ -31,7 +31,8 @@ Check out my **most recent university projects** in **C++, Java, Python, and SQL
 🔹 [**Hashtag Analyzer**](https://github.com/ziaontheotherside/school-projects/tree/main/HashtagAnalyzer) – A **C++ program for tracking trending hashtags**.  
 🔹 [**Process Manager**](https://github.com/ziaontheotherside/school-projects/tree/main/ProcessManager) – A **multi-threaded process scheduling simulator** using **stacks in C++**.  
 🔹 [**PyMatch**](https://github.com/ziaontheotherside/school-projects/tree/main/PyMatch) – A **Python-based memory matching game** with randomized board generation.  
-🔹 [**UMBC Racer**](https://github.com/ziaontheotherside/school-projects/tree/main/UMBCRacer) – A **C++ racing game** with AI-driven obstacles and player progression.
+🔹 [**UMBC Racer**](https://github.com/ziaontheotherside/school-projects/tree/main/UMBCRacer) – A **C++ racing game** with AI-driven obstacles and player progression.  
+🔹 [**StudyBuddy Music Bot**](https://github.com/ziaontheotherside/StudyBuddy-Discord-Bot) – A Discord bot that streams YouTube audio in real-time, bringing music back to study sessions using Python, Nextcord, and FFmpeg.
 
 ---
 
