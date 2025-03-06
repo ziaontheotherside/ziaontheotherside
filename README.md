@@ -37,7 +37,7 @@ Check out my **most recent university projects** in **C++, Java, Python, and SQL
 ---
 
 ### 🔧 **What I’m Currently Working On**
-📌 **As I approach graduation, I'm using my free time to explore C# and Unity** because I love learning new technologies and expanding my skill set. I'm currently working on a **personal game development project**, diving into **physics engines, animations, and UI systems**. My goal is to **build a gameplay prototype** and add it to my project list soon!
+📌 **As I approach graduation, I'm using my free time to explore C# and Unity** because I love learning new technologies and expanding my skill set. I'm currently working on a **personal game development project**, diving into **physics engines, animations, and UI systems**. My goal is to **build a gameplay prototype** and add it to my project list soon! I'm also developing a lot of interest in machine learning.
 
 ---
 
