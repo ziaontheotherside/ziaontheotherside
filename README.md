@@ -26,12 +26,12 @@
 
 ### 🚀 Featured Projects  
 Check out my **most recent university projects** in **C++, Java, Python, and SQL**:  
+🔹 [**Eye Color Detection with OpenCV & Machine Learning**](https://github.com/ziaontheotherside/eye-color-detection) – A **real-time eye color classification system** using **OpenCV, K-Means clustering, and machine learning**. Work-in-progress with plans to incorporate **deep learning & dataset-driven analysis**.  
 🔹 [**Online Job Portal - SQL Project**](https://github.com/ziaontheotherside/Online-Job-Portal-SQL-Project) – A **PL/SQL database system** for managing job applications, recruiters, and job seekers.  
 🔹 [**UMBC Music Player**](https://github.com/ziaontheotherside/school-projects/tree/main/UMBCMusicPlayer) – A linked-list-based **C++ music playlist simulator**.  
 🔹 [**Hashtag Analyzer**](https://github.com/ziaontheotherside/school-projects/tree/main/HashtagAnalyzer) – A **C++ program for tracking trending hashtags**.  
 🔹 [**Process Manager**](https://github.com/ziaontheotherside/school-projects/tree/main/ProcessManager) – A **multi-threaded process scheduling simulator** using **stacks in C++**.  
 🔹 [**PyMatch**](https://github.com/ziaontheotherside/school-projects/tree/main/PyMatch) – A **Python-based memory matching game** with randomized board generation.  
-🔹 [**UMBC Racer**](https://github.com/ziaontheotherside/school-projects/tree/main/UMBCRacer) – A **C++ racing game** with AI-driven obstacles and player progression.  
 🔹 [**StudyBuddy Music Bot**](https://github.com/ziaontheotherside/StudyBuddy-Discord-Bot) – A Discord bot that streams YouTube audio in real-time, bringing music back to study sessions using Python, Nextcord, and FFmpeg.
 
 ---
